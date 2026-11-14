@@ -1,0 +1,10 @@
+.git
+.github
+**/.env
+**/.env.*
+**/node_modules
+**/*.pem
+**/*.key
+infra
+README.md
+src/*.test.js
